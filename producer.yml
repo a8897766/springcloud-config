@@ -1,7 +1,7 @@
 server:
-  port: 8002
+ port: 8002
 spring:
-  redis:
-    password: a8897766
-    host: 120.78.95.25
-    port: 6379
+ redis:
+  password: a8897766
+  host: 120.78.95.25
+  port: 6379
